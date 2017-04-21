@@ -1,6 +1,6 @@
 curl http://www.unalmed.edu.co/~mmtoro/doc/teonum/burtoncap1y2.pdf -o Elementary\ Number\ Theory.pdf
 
-
+一、
 1.
 David Burton的Elementary Number Theory，我也觉得这本书简单易懂还不错的样子，
 
@@ -18,3 +18,16 @@ David Burton的Elementary Number Theory，我也觉得这本书简单易懂还�
 
 4.
 华罗庚的《数论导引》，这本我已经传到群上了。
+
+二、
+组合数学：
+作者：Chen Xiaomei
+链接：https://www.zhihu.com/question/24357509/answer/29835723
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+（1）提高兴趣。《趣味离散数学》，中学时候看的，很有意思。《数学天书中的证明》，里面罗列了数学各个领域中的简短而精致的证明，包括组合数学和图论，很多证明有高中数学知识就可以看懂。另外也推荐看"美国数学月刊"，里面有很多组合方面的有意思的问题，面向高中生和大学本科生。（2）入门：[计数组合]《Enumerative Combinatorics, Volume 1》，经典之作，主页上有电子版（EC1），南开翻译了第一版（《计数组合学》），但建议读英文版；“Bijective Proofs(http://math.mit.edu/~rstan/bij.pdf)”，可以看做上述教材的补充。"Algebraic Combinatorics(Algebraic Combinatorics)"，给本科生的组合学教材，需要一点线性代数的基础。[图论]推荐Graph Theory(ReinhardDiestel)，可读性没有Bollobas的"Modern Graph Theory"强，但内容很全很新，适合做教材。另外推荐Tutte的"Graph Theory as I Have Known it"，包含了图轮大师Tutte做研究过程中的很多想法。（3）提高：看你以后具体做哪个方向。计数组合学方面推荐《Enumerative Combinatorics, Volume 2》和《Hall Polynomial and Symmetric Functions》。图论的不太清楚，不过现在随机图论和极值图论很火，“Extremal graph theory(Bollobas)”，“Random Graphs(Bollobas)”.
+链接：
+http://math.mit.edu/~rstan/algcomb/index.html
+http://math.mit.edu/~rstan/bij.pdf
+书籍有图书馆能借到的《组合数学-第五版》，这本书是中文。
